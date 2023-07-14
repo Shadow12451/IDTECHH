@@ -1,0 +1,11 @@
+# user inputs
+name = input("Enter the character's name: ")
+age = input("Enter the character's age: ")
+species = input("Enter the character's sepcies: ")
+world = input("Enter the character's world: ")
+hobby = input("Enter the character's hobby: ")
+print("Name: " + name)
+print("Age: " + age + " years old")
+print("species " + species)
+print("world " + world)
+print("hobby " + hobby)
